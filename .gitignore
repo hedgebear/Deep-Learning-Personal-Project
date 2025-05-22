@@ -1,0 +1,36 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Arquivos de log e saída
+*.log
+*.out
+*.csv
+*.tsv
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.swp
+
+# Dados temporários
+*.tmp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do Matplotlib
+*.png
+*.svg
