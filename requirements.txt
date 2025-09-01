@@ -2,3 +2,6 @@ tensorflow>=2.10
 matplotlib
 numpy
 scipy
+tensorflow
+pandas
+scikit-learn
